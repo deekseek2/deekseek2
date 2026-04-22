@@ -18,6 +18,5 @@ Currently open to: Entry-level data analyst positions, internships, and networki
 - 👯 I’m looking to collaborate on team project this month, also coming soon.
 - 🤔 I’m looking for help with interviewing practice and continuing networking
 - 💬 Ask me about my LinkedIn (linkedin.com/in/david-szetovt), Resume ([https://docs.google.com/document/d/1h1v3suQFFo80hYb6bXwnTtii2hRPtfKDdSEScpXzWNM/edit?usp=drive_link](https://liveateduapus-my.sharepoint.com/:w:/r/personal/david_szeto_mycampus_apus_edu/Documents/Udemy%20Data%20Analysis/David%20Szeto%20TripleTen%20BIA_DS%20Resume%20Template_2025.docx?d=w11122bacd2224e408b11a5b88ba54108&csf=1&web=1&e=aBpdfG))
-- - 📫 How to reach me: Email (davidzeto@yahoo.com) and located in San Francisco to meet (not willing to relocate)
-- ⚡ Fun fact: My dream goal is to land a data job and move to an apartment where pets are allowed. 
--->
+- 📫 How to reach me: Email (davidzeto@yahoo.com) and located in San Francisco to meet (not willing to relocate)
+- ⚡ Fun fact: My dream goal is to land a data job and move to an apartment where pets are allowed.
