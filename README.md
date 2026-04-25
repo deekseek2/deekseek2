@@ -17,6 +17,6 @@ Currently open to: Entry-level data analyst positions, internships, and networki
 - 🌱 I’m currently learning about reviewing Excel, SQL, and Tableau
 - 👯 I’m looking to collaborate on team project this month, also coming soon.
 - 🤔 I’m looking for help with interviewing practice and continuing networking
-- 💬 Ask me about my LinkedIn (linkedin.com/in/david-szetovt), Resume (https://drive.google.com/file/d/1B4MzJe1o5-OBXL8B48iMFtUukGXjmKGN/view?usp=drivesdk)
+- 💬 Ask me about my LinkedIn (https://linkedin.com/in/david-szetovt), Resume (https://drive.google.com/file/d/1B4MzJe1o5-OBXL8B48iMFtUukGXjmKGN/view?usp=drivesdk)
 - 📫 How to reach me: Email (davidzeto@yahoo.com) and located in San Francisco to meet (not willing to relocate)
 - ⚡ Fun fact: My dream goal is to land a data job and move to an apartment where pets are allowed.
